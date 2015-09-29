@@ -1,0 +1,22 @@
+{
+  "name": "stack-notifier",
+  "version": "0.0.1",
+  "description": "npm install",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.13.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagorg/stack-notifier.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tiagorg/stack-notifier/issues"
+  },
+  "homepage": "https://github.com/tiagorg/stack-notifier#readme"
+}

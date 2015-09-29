@@ -1,1 +1,3 @@
 # stack-notifier
+
+npm install
